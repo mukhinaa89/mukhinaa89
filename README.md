@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi! I'm Andrei  
 
-<!--
-**mukhinaa89/mukhinaa89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Developer**  
+🚀 Learning to code and exploring new technologies  
+📚 I enjoy solving problems and improving my skills  
 
-Here are some ideas to get you started:
+### 🔧 Currently learning:
+- JavaScript (and frontend basics)  
+- HTML, CSS  
+- Git and working with repositories  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- GitHub: [github.com/mukhinaa89](https://github.com/mukhinaa89)  
+
+🌱 **Starting my journey in development and eager to learn every day!** 🚀  
